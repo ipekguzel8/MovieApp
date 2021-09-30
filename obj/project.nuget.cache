@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4Xcacc4/q5wXsrymbBnwZvB4X77Oi8d+K16gf+lMUzN7nxxlP/9eHVM/0Wfr0fuFkN/4jy8TUr2Dyo1BVIttg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ipek\\Desktop\\Example\\MovieApp\\MovieApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ipek\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
